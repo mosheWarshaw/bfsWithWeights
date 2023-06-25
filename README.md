@@ -51,6 +51,7 @@ Commentary: s1B is dequeued and s2B is enqueued (the amount of spacer nodes need
 <br>
 Commentary: s1c is dequeued, D is found, and the algorithm has completed.
 <br>
+<br>
 In the end, the graph was treated as if it looked like:
 <br>
 ![image](https://github.com/mosheWarshaw/bfsWithWeights/assets/113654579/759074ff-77ea-4871-8974-3a07b50d6b26)
